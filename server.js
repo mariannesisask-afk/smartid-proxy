@@ -83,3 +83,4 @@ const port = process.env.PORT || 4000;
 app.listen(port, () => {
   console.log(`Smart-ID proxy running on port ${port}`);
 });
+
